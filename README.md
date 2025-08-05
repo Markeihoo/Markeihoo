@@ -9,8 +9,9 @@
 </a><br>
 
 <a href="https://github.com/Markeihoo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Markeihoo&layout=compact&theme=vision-friendly-dark" />
-</a>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Markeihoo&theme=dark&background=000000" />
+</a><br>
+
 </div>
 
 ### 👨🏻‍💻 &nbsp;About Me
@@ -25,8 +26,9 @@ I'm a **Full-Stack Developer** with a passion for building creative and useful w
 ### 🛠 &nbsp;Technologies & Tools
 
 <a href="https://github.com/Markeihoo">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Markeihoo&theme=dark&background=000000" />
-</a><br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Markeihoo&layout=compact&theme=vision-friendly-dark" />
+</a>
+
 <table>
   <tr>
     <td align="center" width="96">
