@@ -20,7 +20,7 @@
 - BOT-Garena
 - Shabu_project
 
-![gif](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+![gif](https://giphy.com/gifs/scaler-official-dogs-computer-typing-Dh5q0sShxgp13DwrvG)
 
 ## 📫 ติดต่อ
 - Email: noungn1123@gmail.com
