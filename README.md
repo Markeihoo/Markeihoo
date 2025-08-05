@@ -74,16 +74,12 @@ I'm a **Full-Stack Developer** with a passion for building creative and useful w
 </table>
 
 ---
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JK369x&theme=dark&background=000000)](https://git.io/streak-stats)
 
-### 📌 &nbsp;Pinned Projects
 
-- Supersixbackend
-- Api Kbiz
-- backend-mobile
-- BOT-Garena
-- Shabu_project
 
----
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JK369x&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2hiNmpkdWY1MjFleDhxazl2NXp6amQ4NzdpamtjOHI1NTR5Z3l1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif" width="300"/>
