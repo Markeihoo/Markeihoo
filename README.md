@@ -14,8 +14,13 @@
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=saravut123&show_icons=true&theme=tokyonight)
 
 ## 📌 Pinned Projects
-[Project A](https://github.com/username/projectA) - ระบบสั่งอาหารออนไลน์ร้านชาบู 🍲  
-[Project B](https://github.com/username/projectB) - ระบบจัดการตารางเรียนสำหรับครู 👨‍🏫
+- Supersixbackend
+- Api Kbiz 
+- backend-mobile
+- BOT-Garena
+- Shabu_project
+
+![gif](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
 ## 📫 ติดต่อ
 - Email: noungn1123@gmail.com
