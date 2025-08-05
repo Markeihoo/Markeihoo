@@ -1,8 +1,13 @@
 ### Hi there, I'm Saravut! 👋
-
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2hiNmpkdWY1MjFleDhxazl2NXp6amQ4NzdpamtjOHI1NTR5Z3l1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif" width="300"/>
+</div>
 <a href="https://github.com/Markeihoo">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Markeihoo&show_icons=true&theme=tokyonight" />
 </a>
+
+---
+
 <a href="https://github.com/Markeihoo">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Markeihoo&theme=dark&background=000000" />
 </a>
@@ -80,13 +85,4 @@ I'm a **Full-Stack Developer** with a passion for building creative and useful w
 </table>
 
 ---
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Markeihoox&theme=dark&background=000000)](https://git.io/streak-stats)
 
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Markeihoox&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2hiNmpkdWY1MjFleDhxazl2NXp6amQ4NzdpamtjOHI1NTR5Z3l1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif" width="300"/>
-</div>
