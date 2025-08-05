@@ -1,43 +1,90 @@
-## Hi there 👋
+### Hi there, I'm Saravut! 👋
 
-# สวัสดีครับ 👋 I'm Saravut!
-💻 I'm a full-stack developer with a passion for building creative web apps.
-🌱 Currently learning Docker, GraphQL, and Blockchain dev.
-📫 Contact me: saravut@example.com
+<a href="https://github.com/Markeihoo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Markeihoo&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/Markeihoo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Markeihoo&layout=compact&theme=tokyonight" />
+</a>
 
-## 🛠 Skills
-- Frontend: React, Vite, TailwindCSS
-- Backend: Node.js, Express, PostgreSQL
-- DevOps: Docker, GitHub Actions
+---
 
-## 📈 GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=saravut123&show_icons=true&theme=tokyonight)
+### 👨🏻‍💻 &nbsp;About Me
 
-## 📌 Pinned Projects
+I'm a **Full-Stack Developer** with a passion for building creative and useful web applications. I enjoy learning new technologies and applying them to solve real-world problems.
+
+- 🌱 &nbsp;I’m currently learning **Docker, GraphQL, and Blockchain development**.
+- 📫 &nbsp;How to reach me: **noungn1123@gmail.com**
+
+---
+
+### 🛠 &nbsp;Technologies & Tools
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#-technologies--tools">
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="#-technologies--tools">
+        <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
+      </a>
+      <br>Vite
+    </td>
+    <td align="center" width="96">
+      <a href="#-technologies--tools">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
+      </a>
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <a href="#-technologies--tools">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+      </a>
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <a href="#-technologies--tools">
+        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+      </a>
+      <br>Express
+    </td>
+    <td align="center" width="96">
+      <a href="#-technologies--tools">
+        <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
+      </a>
+      <br>PostgreSQL
+    </td>
+     <td align="center" width="96">
+      <a href="#-technologies--tools">
+        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+     <td align="center" width="96">
+      <a href="#-technologies--tools">
+        <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" />
+      </a>
+      <br>Actions
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📌 &nbsp;Pinned Projects
+
 - Supersixbackend
-- Api Kbiz 
+- Api Kbiz
 - backend-mobile
 - BOT-Garena
 - Shabu_project
 
-![gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2hiNmpkdWY1MjFleDhxazl2NXp6amQ4NzdpamtjOHI1NTR5Z3l1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif)
+---
 
-## 📫 ติดต่อ
-- Email: noungn1123@gmail.com
-
-
-
-<!--
-**Markeihoo/Markeihoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2hiNmpkdWY1MjFleDhxazl2NXp6amQ4NzdpamtjOHI1NTR5Z3l1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif" width="300"/>
+</div>
