@@ -1,6 +1,6 @@
 ### Hi there, I'm Saravut! 👋
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2hiNmpkdWY1MjFleDhxazl2NXp6amQ4NzdpamtjOHI1NTR5Z3l1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif" width="300"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWR0Z25zbWI0bndqajExZmNhNTk0cm0xbWR6NmhyMDlzZWFiczVpYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VzGQrj8sLH4GLcSiG1/giphy.gif" width="300"/>
 </div>
 
 <div align="center">
